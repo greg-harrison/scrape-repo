@@ -1,0 +1,14 @@
+{
+  "name": "scrape-repo",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "url": "https://github.com/greg-harrison/scrape-repo.git",
+    "type": "git"
+  },
+  "author": "Greg <harrison.greg.c@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
